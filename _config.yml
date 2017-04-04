@@ -1,0 +1,29 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+# Following the example in https://www.taniarascia.com/make-a-static-website-with-jekyll/
+
+# Site settings
+title: yogen
+email: dani@yogen.io
+description: > # this means to ignore newlines until "baseurl:"
+  We are yogen. We are a one-stop shop for your Data Science needs.
+  We can help your business make the most of your data, or we can teach
+  you how to do it yourself.
+  We can solve any problem in the Machine Learning, Big data, or Visualization
+  space.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yogen.io" # the base hostname & protocol for your site
+twitter_username: ""
+github_username:  Yogen-io
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
