@@ -15,10 +15,11 @@ description: > # this means to ignore newlines until "baseurl:"
   you how to do it yourself.
   We can solve any problem in the Machine Learning, Big data, or Visualization
   space.
+short_description: > # this means to ignore newlines until "baseurl:"
+  We are yogen. We are a one-stop shop for your Data Science needs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yogen.io" # the base hostname & protocol for your site
-twitter_username: ""
-github_username:  Yogen-io
+github_username:  yogen-io
 
 # Build settings
 markdown: kramdown
