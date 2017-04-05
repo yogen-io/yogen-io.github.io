@@ -33,7 +33,7 @@ logo: /assets/logo_round.svg
 markdown: kramdown
 theme: jekyll-theme-basically-basic
 gems:
-  - jekyll-feed
+#  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
