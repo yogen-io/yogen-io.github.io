@@ -7,6 +7,7 @@
 # Following the example in https://www.taniarascia.com/make-a-static-website-with-jekyll/
 
 # Site settings
+lang: en-US
 title: yogen
 email: dani@yogen.io
 description: > # this means to ignore newlines until "baseurl:"
@@ -20,11 +21,46 @@ short_description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yogen.io" # the base hostname & protocol for your site
 github_username: yogen-io
+author:
+  name: "Daniel Mateos"
+  title: "Data Scientist and educator, Founder at yogen.io"
+  github: "https://github.com/danimateos"
+  linkedin: "https://www.linkedin.com/in/daniel-mateos-san-martín-b02aa956/"
+logo: /assets/logo_round.svg
 
 # Build settings
 markdown: kramdown
-sass:
-  sass_dir: _sass
-include: ['_pages']
-kramdown:
-  input: GFM
+theme: jekyll-theme-basically-basic
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+feed:
+  path: atom.xml
+
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: /page:num/
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Front Matter Defaults
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      read_time: true
