@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="169.33333mm"
+   height="169.33333mm"
+   viewBox="0 0 599.99998 599.99998"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/dani/repos/yogen-io/images/logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="173.10003"
+     inkscape:cy="229.91075"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="opacity:0.97000002"
+     transform="translate(-74.00898,-38.436886)">
+    <rect
+       style="fill:#1e1e1e;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="rect4166"
+       width="600"
+       height="600"
+       x="74.00898"
+       y="38.436886" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(-74.00898,-38.436886)">
+    <g
+       id="g4254"
+       transform="translate(-24.415378,26.975796)">
+      <g
+         transform="translate(-4.000386,0)"
+         id="g4246">
+        <rect
+           style="opacity:0.97000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+           id="rect4168"
+           width="100"
+           height="100"
+           x="152.42474"
+           y="61.460999" />
+        <rect
+           style="opacity:0.97000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+           id="rect4168-7"
+           width="100"
+           height="100"
+           x="252.42474"
+           y="161.461" />
+      </g>
+      <g
+         transform="translate(3.7779343,0)"
+         id="g4250">
+        <rect
+           style="opacity:0.97000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+           id="rect4168-3"
+           width="100"
+           height="100"
+           x="444.64642"
+           y="161.461" />
+        <rect
+           style="opacity:0.97000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+           id="rect4168-56"
+           width="100"
+           height="100"
+           x="544.64642"
+           y="61.460999" />
+      </g>
+      <g
+         transform="translate(-0.47414089,0)"
+         id="g4241">
+        <rect
+           style="opacity:0.97000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+           id="rect4168-5"
+           width="100"
+           height="100"
+           x="348.8985"
+           y="261.461" />
+        <rect
+           style="opacity:0.97000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+           id="rect4168-2"
+           width="100"
+           height="100"
+           x="348.8985"
+           y="361.46109"
+           inkscape:transform-center-x="-13.131983"
+           inkscape:transform-center-y="-81.822356" />
+        <rect
+           style="opacity:0.97000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+           id="rect4168-9"
+           width="100"
+           height="100"
+           x="348.8985"
+           y="461.46118"
+           inkscape:transform-center-x="-22.223356"
+           inkscape:transform-center-y="-70.710678" />
+      </g>
+    </g>
+  </g>
+</svg>
