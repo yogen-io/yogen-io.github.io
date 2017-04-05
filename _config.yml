@@ -9,15 +9,16 @@
 # Site settings
 lang: en-US
 title: yogen
+alt_title: We are yogen
 email: dani@yogen.io
 description: > # this means to ignore newlines until "baseurl:"
-  We are yogen. We are a one-stop shop for your Data Science needs.
+  We are a one-stop shop for your Data Science needs.
   We can help your business make the most of your data, or we can teach
   you how to do it yourself.
   We solve your problems in the Machine Learning, Big data, or Visualization
   space.
 short_description: > # this means to ignore newlines until "baseurl:"
-  We are yogen. We are a one-stop shop for your Data Science needs.
+  We are a one-stop shop for your Data Science needs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yogen.io" # the base hostname & protocol for your site
 github_username: yogen-io

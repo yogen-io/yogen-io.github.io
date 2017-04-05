@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="logo_round.svg">
+   sodipodi:docname="logo_round.svg"
+   inkscape:export-filename="/home/dani/repos/yogen-io/assets/logo_round.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="257.16245"
-     inkscape:cy="238.12992"
+     inkscape:cx="23.817212"
+     inkscape:cy="235.30149"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4254"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1022"
@@ -48,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -110,35 +113,11 @@
            x="544.64642"
            y="61.460999" />
       </g>
-      <g
-         transform="translate(-0.47414089,0)"
-         id="g4241">
-        <rect
-           style="opacity:0.97000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
-           id="rect4168-5"
-           width="100"
-           height="100"
-           x="348.8985"
-           y="261.461" />
-        <rect
-           style="opacity:0.97000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
-           id="rect4168-2"
-           width="100"
-           height="100"
-           x="348.8985"
-           y="361.46109"
-           inkscape:transform-center-x="-13.131983"
-           inkscape:transform-center-y="-81.822356" />
-        <rect
-           style="opacity:0.97000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
-           id="rect4168-9"
-           width="100"
-           height="100"
-           x="348.8985"
-           y="461.46118"
-           inkscape:transform-center-x="-22.223356"
-           inkscape:transform-center-y="-70.710678" />
-      </g>
+      <path
+         style="opacity:0.97000002;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         d="M 320.05664 366.05664 L 320.05664 466.05664 L 320.05664 566.05664 L 320.05664 666.05664 L 420.05664 666.05664 L 420.05664 566.05664 L 420.05664 466.05664 L 420.05664 366.05664 L 320.05664 366.05664 z "
+         transform="translate(28.368015,-104.59524)"
+         id="rect4168-5" />
     </g>
   </g>
 </svg>
