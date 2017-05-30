@@ -1,25 +1,55 @@
 - name: "Daniel Mateos"
-  title: "Data Scientist and educator, Founder at yogen.io"
+  title: "Data Scientist & Educator, Founder at yogen.io"
   github: "https://github.com/danimateos"
   linkedin: "https://www.linkedin.com/in/daniel-mateos-san-martín-b02aa956/"
+  description: >
+    Dani did his PhD in Molecular Biology applying bioinformatics techniques
+    to the study of how the shape of animals is encoded in their genome.
+    Since then, he has applied his data skills to any problem that came in
+    his way. He is our expert in Scala and the Python scientific stack.
 
 - name: "Igor Arambasic"
   title: "Sr. Data Scientist / DS Manager"
   github: "https://github.com/IgorAramb"
   linkedin: "https://www.linkedin.com/in/igorarambasic/"
+  description: >
+    Igor is a Doctor in Telecommunications. In order to extract the
+    positioning data out of telecommunication measurements he
+    switched to distributed systems, and never looked back. In 2014
+    he traded positioning data for travel one as he joined Amadeus,
+    where, he enjoys bringing scattered travel data sources to life.
 
 - name: "Israel Herraiz"
   title: "Data Scientist Manager at Amadeus IT Group"
   github: "https://github.com/iht"
   linkedin: "https://www.linkedin.com/in/herraiz/"
-
+  description: >
+    Israel is a Data scientist, FOSS enthusiast, big data developer,
+    and geek, not necessarily in that order. He turns data into
+    products and solutions that help airlines, travel agencies and
+    other actors in the travel industry answer questions and take
+    better decisions. In a previous life, he reasearched OSS projects
+    and taught programming to engineering students.
+    
 - name: "Juan Arévalo"
   title: "Data Scientist at BBVA Data & Analytics"
   github: "https://github.com/juarele"
   linkedin: "https://www.linkedin.com/in/juan-arevalo-gutierrez-a1300a73/"
+  description: >
+    Juan wrote his PhD on the problem of plasma modelling within nuclear
+    fusion reactors. He is unashamedly a Linear Algebra and Statistics
+    geek, which is why he is enjoying himself so much with the current
+    Deep Learning revolution. He is our DL expert and can discuss the how
+    and why of learning complex representations from small amounts of
+    data. He currently works in BBVA Data & Analytics.
 
 - name: "Sebastien Pérez"
   title: "Data Scientist & Educator"
   github: "https://github.com/rezpe"
   linkedin: "https://www.linkedin.com/in/sebastien-perez-vasseur-76938612/"
-
+  description: >
+    Sebastien is a Telecommunications Engineer turned web developer
+    turned Data Scientist. He is our visualization expert, so if you need
+    your data to pop into life in the eyes of your analysts or customers,
+    he is your man.
+    
