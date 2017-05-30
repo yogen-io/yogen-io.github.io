@@ -3,7 +3,7 @@
     {% if site.copyright %}
       {{ site.copyright | markdownify }}
     {% else %}
-      <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}.</p>
+      <p>&copy; {{ site.time | date: '%Y' }} <a href=mailto:{{site.email}}>{{ site.title }}</a>.</p>
     {% endif %}
   </div>
 </footer>
