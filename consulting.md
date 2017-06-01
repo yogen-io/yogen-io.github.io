@@ -2,6 +2,7 @@
 layout: page
 title: Consulting
 permalink: /consulting/
+image: /assets/helloquence-61189_cropped_small.jpg
 ---
 
 If you can't afford the time required to have your people develop their own Machine Learning superpowers.

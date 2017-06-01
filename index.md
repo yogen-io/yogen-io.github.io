@@ -1,9 +1,8 @@
 ---
-layout: home
-title: site.alt_title
+layout: page
+title: We are Yogen
+image: /assets/adam-przewoski-193_cropped_small.jpg        
 ---
-
-## {{ site.alt_title }}
 
 {{ site.description }}
 

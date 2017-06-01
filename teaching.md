@@ -2,6 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
+image: /assets/patrik-gothe-444_cropped_small.jpg
 ---
 
 Our mission is to give your employees Machine Learning superpowers.
