@@ -1,0 +1,10 @@
+- title: Introduction to Scala for Data Scientists
+  logo: https://www.scala-lang.org/resources/img/smooth-spiral.png
+  cover_image: htotopo://dummy.novale
+  description: >
+    This is a course devoted to the hottest programming language in recent
+    memory. In it, Data Scientists with experience in the field will learn
+    the basic constructs in the language, how a typed programming language
+    can help them reason about the correctness of their programs, and how
+    to use the many frameworks for Big Data processing that leverage Scala\'s
+    expressivity.
