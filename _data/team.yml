@@ -1,7 +1,7 @@
 - name: "Daniel Mateos"
   title: "Data Scientist & Educator, Founder at yogen.io"
-  github: "https://github.com/danimateos"
-  linkedin: "https://www.linkedin.com/in/daniel-mateos-san-martín-b02aa956/"
+  github: "danimateos"
+  linkedin: "daniel-mateos-san-martín-b02aa956/"
   description: >
     Dani did his PhD in Molecular Biology applying bioinformatics techniques
     to the study of how the shape of animals is encoded in their genome.
@@ -10,8 +10,8 @@
 
 - name: "Igor Arambasic"
   title: "Sr. Data Scientist / DS Manager"
-  github: "https://github.com/IgorAramb"
-  linkedin: "https://www.linkedin.com/in/igorarambasic/"
+  github: "IgorAramb"
+  linkedin: "igorarambasic/"
   description: >
     Igor is a Doctor in Telecommunications. In order to extract the
     positioning data out of telecommunication measurements he
@@ -21,8 +21,8 @@
 
 - name: "Israel Herraiz"
   title: "Data Scientist Manager at Amadeus IT Group"
-  github: "https://github.com/iht"
-  linkedin: "https://www.linkedin.com/in/herraiz/"
+  github: "iht"
+  linkedin: "herraiz/"
   description: >
     Israel is a Data scientist, FOSS enthusiast, big data developer,
     and geek, not necessarily in that order. He turns data into
@@ -33,8 +33,8 @@
     
 - name: "Juan Arévalo"
   title: "Data Scientist at BBVA Data & Analytics"
-  github: "https://github.com/juarele"
-  linkedin: "https://www.linkedin.com/in/juan-arevalo-gutierrez-a1300a73/"
+  github: "juarele"
+  linkedin: "juan-arevalo-gutierrez-a1300a73/"
   description: >
     Juan wrote his PhD on the problem of plasma modelling within nuclear
     fusion reactors. He is unashamedly a Linear Algebra and Statistics
@@ -45,8 +45,8 @@
 
 - name: "Sebastien Pérez"
   title: "Data Scientist & Educator"
-  github: "https://github.com/rezpe"
-  linkedin: "https://www.linkedin.com/in/sebastien-perez-vasseur-76938612/"
+  github: "rezpe"
+  linkedin: "sebastien-perez-vasseur-76938612/"
   description: >
     Sebastien is a Telecommunications Engineer turned web developer
     turned Data Scientist. He is our visualization expert, so if you need
