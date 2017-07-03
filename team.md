@@ -14,5 +14,7 @@ permalink: /team/
   {% if member.linkedin %}
     {% include icon-linkedin.html username=member.linkedin label='Linkedin' %}
   {% endif %}
+  <br>
+  <br>
   </div>
 {% endfor %}
