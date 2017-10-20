@@ -1,0 +1,7 @@
+- name: "Linux Command Line Cheat Sheet"
+  internal: true
+  path: "/assets/pdfs/LinuxShell-01.pdf"
+  description: >-
+    The core Linux shell commands you need to be a
+    command line wizard.
+
