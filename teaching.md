@@ -11,3 +11,4 @@ We have extensive experience in teaching. From university lectures to internatio
 
 We have a repertoire of courses that we can teach with minimal lead time. We can also tailor specific courses to your needs.
 
+Check out our freely available <a href="/teachingresources/">Data Science learning resources! </a>
