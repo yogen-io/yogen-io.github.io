@@ -1,7 +1,18 @@
-- name: "Linux Command Line Cheat Sheet"
+- name: "Linux Command Line Cheat Sheet 1"
   internal: true
   path: "/assets/pdfs/LinuxShell-01.pdf"
   description: >-
-    The core Linux shell commands you need to be a
-    command line wizard.
+    The core Linux shell commands you need to be comfortable
+    in the command line. Covers moving through the file system,
+    handling, moving and inspecting files.
+    
+
+- name: "Linux Command Line Cheat Sheet 2"
+  internal: true
+  path: "/assets/pdfs/LinuxShell-02.pdf"
+  description: >-
+    The Linux shell commands you need to be a command line wizard.
+    Be adept at processing text from the shell itself, finding files
+    and text within files, compress and uncompress files, handle jobs,
+    examine csvs and write your own shell scripts.
 
