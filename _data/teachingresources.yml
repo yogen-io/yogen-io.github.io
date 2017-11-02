@@ -16,3 +16,15 @@
     and text within files, compress and uncompress files, handle jobs,
     examine csvs and write your own shell scripts.
 
+
+- name: "Python 3 Fundamentals Cheat Sheet"
+  internal: true
+  path: "/assets/pdfs/Python3Fundamentals.pdf"
+  description: >-
+    Python 3 basics for quick reference to get you up to speed.
+    Covers flow control, string handling, file I/O, collections,
+    functional programming and IPython magics.
+
+
+
+    
