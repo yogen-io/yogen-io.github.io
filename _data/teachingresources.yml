@@ -26,5 +26,10 @@
     functional programming and IPython magics.
 
 
+- name: "Git Cheat Sheet"
+  internal: true
+  path: "/assets/pdfs/Git.pdf"
+  description: >-
+    Every Git command that you\'ll need to handle 95% of use cases.
+    Keep it by your side when you need to [change history](http://justinhileman.info/article/changing-history)!
 
-    

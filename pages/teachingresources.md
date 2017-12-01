@@ -17,7 +17,7 @@ Be sure to check back, we will be adding many more!
   <div class="internal_resource">
   <h3>   <a href="{{ resource.path }}"> {{ resource.name }} </a></h3>
 
-  <p> {{ resource.description }} </p>
+  <p> {{ resource.description | markdownify }} </p>
   </div>
   {% endif %}
 {% endfor %}
