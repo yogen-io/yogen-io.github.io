@@ -31,6 +31,7 @@ google_fonts:
 
 navigation_pages:
   - about.md
+  - blog.html
   - team.md
   - consulting.md
   - teaching.md
