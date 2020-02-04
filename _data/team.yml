@@ -1,38 +1,39 @@
 - name: "Daniel Mateos"
-  title: "Data Scientist & Educator, Founder at yogen.io"
+  title: "Freelance Data Scientist & Bioinformatician"
   github: "danimateos"
   linkedin: "daniel-mateos-san-martín-b02aa956/"
+  website: "mateos.io"
   description: >
     Dani did his PhD in Molecular Biology applying bioinformatics techniques
     to the study of how the shape of animals is encoded in their genome.
     Since then, he has applied his data skills to any problem that came in
-    his way. He is our expert in Scala and the Python scientific stack.
+    his way. He is our expert in Scala, Spark, and the Python scientific stack.
 
 - name: "Igor Arambasic"
-  title: "Sr. Data Scientist / DS Manager"
+  title: "Data Science Manager at Amadeus"
   github: "IgorAramb"
   linkedin: "igorarambasic/"
   description: >
     Igor is a Doctor in Telecommunications. In order to extract the
     positioning data out of telecommunication measurements he
     switched to distributed systems, and never looked back. In 2014
-    he traded positioning data for travel one as he joined Amadeus,
-    where, he enjoys bringing scattered travel data sources to life.
+    he traded positioning for traveldata as he joined Amadeus, where
+    he enjoys bringing scattered travel data sources to life.
 
 - name: "Israel Herraiz"
-  title: "Data Scientist Manager at Amadeus IT Group"
+  title: "Strategic Cloud Engineer at Google"
   github: "iht"
   linkedin: "herraiz/"
+  website: "herraiz.org"
   description: >
     Israel is a Data scientist, FOSS enthusiast, big data developer,
-    and geek, not necessarily in that order. He turns data into
-    products and solutions that help airlines, travel agencies and
-    other actors in the travel industry answer questions and take
-    better decisions. In a previous life, he reasearched OSS projects
-    and taught programming to engineering students.
+    and geek, not necessarily in that order. He is a strategic cloud
+    engineer at Google, jumping into distressed Big Data projects to
+    save them like a firefighter would. In a previous life, he
+    reasearched OSS projects and taught programming to engineering students.
     
 - name: "Juan Arévalo"
-  title: "Data Scientist at BBVA Data & Analytics"
+  title: "Senior Data Scientist at Cepsa"
   github: "juarele"
   linkedin: "juan-arevalo-gutierrez-a1300a73/"
   description: >
@@ -41,10 +42,11 @@
     geek, which is why he is enjoying himself so much with the current
     Deep Learning revolution. He is our DL expert and can discuss the how
     and why of learning complex representations from small amounts of
-    data. He currently works in BBVA Data & Analytics.
+    data. He is interested in the societal impact of machine learning,
+    including how to code fairness into our algorithms.
 
 - name: "Sebastien Pérez"
-  title: "Data Scientist & Educator"
+  title: "Data Scientist at Amadeus"
   github: "rezpe"
   linkedin: "sebastien-perez-vasseur-76938612/"
   description: >
@@ -53,3 +55,12 @@
     your data to pop into life in the eyes of your analysts or customers,
     he is your man.
     
+- name: "Antonio Almagro"
+  title: "Data Engineer at Amadeus"
+  github: "Beovulfo"
+  linkedin: "antonio-almagro-22621439/"
+  description: >
+    Toni also did the jump from academia to industry. After his PhD in
+    aeronautical engineering modelling fluid dynamics within an engine he
+    jumped into distributed systems engineering and from there into
+    industry.
